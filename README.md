@@ -1,2 +1,2 @@
-# pythonINTRO
-curs introductiv in programare part1
+introducere in programare \
+part 1 java
