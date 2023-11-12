@@ -1,2 +1,2 @@
 introducere in programare \
-part 1 java
+part 1 java.
